@@ -1,1 +1,11 @@
+please create files like this
 
+train
+   /images
+   /labels
+val
+   /images
+   /labels
+test
+   /images
+   /labels
